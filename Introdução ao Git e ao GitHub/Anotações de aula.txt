@@ -1,0 +1,8 @@
+Comandos iniciais
+
+git init - cria o repositório
+git add * - adiciona todos os arquivos para serem comitados
+git commit -m "mensagem" - realiza o commit do arquivo/pasta
+git push origin master - realiza o push para o github
+git pull origin master - puxa o conteúdo de um repositório para sua máquina
+git clone url - clona um repositório do githut para sua máquina.
